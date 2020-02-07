@@ -1,1 +1,2 @@
 # XSS-Challenge-Recording
+由于markdown格式文件编写问题，请阅览时点击文本右上角的raw或blame文件可查看到各题payload。
